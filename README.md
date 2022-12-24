@@ -1,4 +1,4 @@
-## Hello, folks!
+## Hello, peeps!
 
 
 <!---[![GitHub Badge](https://img.shields.io/badge/-Mayank0255-0d0d0d?style=flat&labelColor=0d0d0d&logo=github&logoColor=white)](https://github.com/Mayank0255)-->
@@ -26,18 +26,8 @@
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
 
-  ### Tools I use:
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="30px"></span>&nbsp;
-  <span><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="30px"></span>&nbsp;
-  <span><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="30px"></span>&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"></span>&nbsp;
-  <span><img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" width="30px"></span>&nbsp;
-  <span><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="30px"></span>&nbsp;
-
   ### Things I am learning:
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="30px"></span>&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="30px"></span>&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" width="30px"></span>&nbsp;
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/reactNative-original.svg" width="30px"></span>&nbsp;
 
 </details>
 
@@ -51,19 +41,3 @@
   [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </details>
-
-## 📝 Medium Blogs
-<!-- MEDIUM-STORY-LIST:START -->
-- [9 Best Developer Communities On Discord](https://levelup.gitconnected.com/9-best-developer-communities-on-discord-c673b8ab3a1c?source=rss-62889aba2ad1------2)
-- [How I Got An Internship At Zomato Through LinkedIn](https://levelup.gitconnected.com/how-i-got-an-internship-at-zomato-through-linkedin-be486cf23628?source=rss-62889aba2ad1------2)
-<!-- MEDIUM-STORY-LIST:END -->
-
-## ⚡ Recent Activity
-  
-  <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
-2. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
-3. 🗣 Commented on [#68](https://github.com/Amegma/Galaxy-Attack/issues/68) in [Amegma/Galaxy-Attack](https://github.com/Amegma/Galaxy-Attack)
-4. 🎉 Merged PR [#6](https://github.com/Mayank0255/Weather-HERE/pull/6) in [Mayank0255/Weather-HERE](https://github.com/Mayank0255/Weather-HERE)
-5. 🎉 Merged PR [#7](https://github.com/Mayank0255/Weather-HERE/pull/7) in [Mayank0255/Weather-HERE](https://github.com/Mayank0255/Weather-HERE)
-  <!--END_SECTION:activity-->
