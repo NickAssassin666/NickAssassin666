@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Development And Design.
 - 🌱 I’m currently learning Stock Trading.
 - 💞️ I’m currently working on some projects on Python.
-- 📫 You can reach me on Mohammedshahez@gmail.com
+- 📫 You can reach me on mshahez.me@gmail.com
