@@ -1,6 +1,4 @@
 ## Hello, folks!
-<img src="https://komarev.com/ghpvc/?username=NickAssassin666
-&label=Profile Views&color=blue&style=flat" alt="Mayank0255" />
 
 
 <!---[![GitHub Badge](https://img.shields.io/badge/-Mayank0255-0d0d0d?style=flat&labelColor=0d0d0d&logo=github&logoColor=white)](https://github.com/Mayank0255)-->
