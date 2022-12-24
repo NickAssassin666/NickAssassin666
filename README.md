@@ -25,19 +25,5 @@
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
-
-  ### Things I am learning:
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/reactNative-original.svg" width="30px"></span>&nbsp;
-
 </details>
 
-## 🏆 My GitHub Stats
-<details>
-  <summary>More Info</summary>
-  <br/>
-  
-  [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</details>
