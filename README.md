@@ -3,16 +3,13 @@
 
 <!---[![GitHub Badge](https://img.shields.io/badge/-Mayank0255-0d0d0d?style=flat&labelColor=0d0d0d&logo=github&logoColor=white)](https://github.com/Mayank0255)-->
 [![Linkedin Badge](https://img.shields.io/badge/-mohammad%20shahez-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-shahez-b4b000221/)
-[![Mail Badge](https://img.shields.io/badge/-mohammad2shahez-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mshahez.me@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/-Mayank-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKIoMO8RvlAh7bIUfT2Nmsg)
-[![Medium Badge](https://img.shields.io/badge/@mynkggrwl-12100E?style=flat&labelColor=12100E&logo=medium&logoColor=white)](https://medium.com/@mynkggrwl)
+[![Mail Badge](https://img.shields.io/badge/-mohammad%20shahez-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mshahez.me@gmail.com)
 
-## 🎓 I'm a BTech IT Final Year Student
-- 🔭 I’m currently working in Zomato. __[@mayank-zoman](https://github.com/mayank-zoman)__ is my github work account
-- 🌱 I’m currently learning Data mining & Flutter
-- 👯 I’m actively looking for a 6 month long internship, starting from January 2022
-- 💬 Ask me about Node.js / Python / MySQL / React.js / Tableau
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mayank-aggarwal-14301b168/) or Discord (Mayank#9665)
+## 🎓 I'm a BE Mechanical Engineer Graduate
+- 🌱 I’m currently learning Stock Trading and React Native
+- 👯 I’m actively looking for a Mern Stack Developer Job
+- 💬 Ask me about Node.js / Python / MySQL / React.js / mongoDB
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohammad-shahez-b4b000221/)
 
 ## 🛠️ Tools & Technologies
 <details>
