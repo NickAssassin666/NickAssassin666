@@ -3,7 +3,7 @@
 
 <!---[![GitHub Badge](https://img.shields.io/badge/-Mayank0255-0d0d0d?style=flat&labelColor=0d0d0d&logo=github&logoColor=white)](https://github.com/Mayank0255)-->
 [![Linkedin Badge](https://img.shields.io/badge/-mohammad%20shahez-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-shahez-b4b000221/)
-[![Mail Badge](https://img.shields.io/badge/-mohammad%20shahez-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mshahez.me@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-mshahez-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mshahez.me@gmail.com)
 
 ## 🎓 I'm a BE Mechanical Engineer Graduate
 - 🌱 I’m currently learning Stock Trading and React Native
