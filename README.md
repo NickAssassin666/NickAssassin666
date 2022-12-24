@@ -2,7 +2,7 @@
 
 
 <!---[![GitHub Badge](https://img.shields.io/badge/-Mayank0255-0d0d0d?style=flat&labelColor=0d0d0d&logo=github&logoColor=white)](https://github.com/Mayank0255)-->
-[![Linkedin Badge](https://img.shields.io/badge/-Mayank%20Aggarwal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-aggarwal-14301b168/)
+[![Linkedin Badge](https://img.shields.io/badge/-mohammad%20shahez-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-aggarwal-14301b168/)
 [![Mail Badge](https://img.shields.io/badge/-mayank2aggarwal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mayank2aggarwal@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Mayank-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKIoMO8RvlAh7bIUfT2Nmsg)
 [![Medium Badge](https://img.shields.io/badge/@mynkggrwl-12100E?style=flat&labelColor=12100E&logo=medium&logoColor=white)](https://medium.com/@mynkggrwl)
